@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "L6235D")(type "KiCad")(uri "${KIPRJMOD}/libs/L6235D.kicad_sym")(options "")(descr ""))
+  (lib (name "LMR16020PDDA")(type "KiCad")(uri "${KIPRJMOD}/libs/LMR16020PDDA.kicad_sym")(options "")(descr ""))
+  (lib (name "LSM6DSL")(type "KiCad")(uri "${KIPRJMOD}/libs/LSM6DSL.kicad_sym")(options "")(descr ""))
+  (lib (name "TerminalBlockBend")(type "KiCad")(uri "${KIPRJMOD}/libs/TerminalBlockBend.kicad_sym")(options "")(descr ""))
+)
